@@ -1,0 +1,16 @@
+.Clicker-winP {
+  display: block;
+}
+
+.Clicker-loseP {
+  display: none;
+}
+
+.Clicker-winBtn {
+  display: none;
+}
+
+.Clicker-loseBtn {
+  margin: 0 auto;
+  display: block;
+}
